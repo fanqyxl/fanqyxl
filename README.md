@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fanqyxl&label=Profile%20views&color=0e75b6&style=flat" alt="fanqyxl" /> </p>
 
+![My Discord](https://discord-readme-badge.vercel.app/api?id=<889531799691227236>)
+
 
 - 🔭 I’m currently working on **a discord theme!!**
 
